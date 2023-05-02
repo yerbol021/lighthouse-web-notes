@@ -1,3 +1,3 @@
 [Yerbol]`s Notes
 # This is an H1 header (largest)
-###### This is an H6 header (smallest)
+###### This repository contains all of the notes taken by [Yerbol Kuldeyev](https://github.com/yerbol021) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp.
